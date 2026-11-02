@@ -1,7 +1,7 @@
 # Atividade_1Bim_2Sem - Gerador e Leitor de QR Code
 
 Aplicativo Android desenvolvido como Atividade prática da matéria de
-**Programação para Disp. Móveis I**. O app permite gerar um QR Code a partir de
+**Programação para Disp. Móveis II**. O app permite gerar um QR Code a partir de
 um texto informado pelo usuário e ler QR Codes utilizando a câmera do
 dispositivo.
 
